@@ -14,6 +14,6 @@ En la terminal , correr:  node -v si este comando no funciona probar con este br
 ```
 * HTTP-SERVER.
 ```
-_correr el comando: npm install http-server --save. y luego para correr el servidor node node_modules/http-server/bin/http-server._
+Correr el comando----> npm install http-server --save. y luego para correr el servidor----> node node_modules/http-server/bin/http-server.
 
 ```
